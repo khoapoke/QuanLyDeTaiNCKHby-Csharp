@@ -1,0 +1,12 @@
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\GUI_QLDeTaiNCKH.exe.config
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\GUI_QLDeTaiNCKH.exe
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\GUI_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\BLL_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\DTO_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\DAL_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\BLL_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\DTO_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\bin\Release\DAL_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\obj\Release\GUI_QLDeTaiNCKH.csprojResolveAssemblyReference.cache
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\obj\Release\GUI_QLDeTaiNCKH.exe
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUI_QLDeTaiNCKH\obj\Release\GUI_QLDeTaiNCKH.pdb

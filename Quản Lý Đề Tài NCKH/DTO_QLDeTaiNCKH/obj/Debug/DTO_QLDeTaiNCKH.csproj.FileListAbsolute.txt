@@ -1,0 +1,5 @@
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\DTO_QLDeTaiNCKH\bin\Debug\DTO_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\DTO_QLDeTaiNCKH\bin\Debug\DTO_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\DTO_QLDeTaiNCKH\obj\Debug\DTO_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\DTO_QLDeTaiNCKH\obj\Debug\DTO_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\DTO_QLDeTaiNCKH\obj\Debug\DTO_QLDeTaiNCKH.csprojResolveAssemblyReference.cache

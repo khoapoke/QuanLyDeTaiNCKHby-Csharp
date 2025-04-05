@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DTO_QLDeTaiNCKH.DeTaiDTO">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAgAAABAAAAQAAAAAAAAAAAAAAAQSKQAAAAAQAgA=</HashCode>
+      <FileName>DeTaiDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO_QLDeTaiNCKH.NghienCuuCongNgheDTO">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAABAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAIA=</HashCode>
+      <FileName>NghienCuuCongNgheDTO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DTO_QLDeTaiNCKH.NghienCuuKinhTeDTO">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAABAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAIA=</HashCode>
+      <FileName>NghienCuuKinhTeDTO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DTO_QLDeTaiNCKH.NghienCuuLyThuyetDTO">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACABAAAAAAAAAAAAAAAAAAAAAACQIAAAAAAAA=</HashCode>
+      <FileName>NghienCuuLyThuyetDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DTO_QLDeTaiNCKH.IphiNghienCuu" Collapsed="true">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>IphiNghienCuu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\GUIFORM_QLDeTaiNCKH.exe.config
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\GUIFORM_QLDeTaiNCKH.exe
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\GUIFORM_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.csprojResolveAssemblyReference.cache
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.Properties.Resources.resources
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.csproj.GenerateResource.Cache
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.exe
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\BLL_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\DTO_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\DAL_QLDeTaiNCKH.dll
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\BLL_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\DTO_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\bin\Release\DAL_QLDeTaiNCKH.pdb
+D:\CT ĐẠI HỌC 23-27\Lập trình hướng đối tượng\Quản Lý Đề Tài NCKH\GUIFORM_QLDeTaiNCKH\obj\Release\GUIFORM_QLDeTaiNCKH.QLDeTaiNCKH.resources

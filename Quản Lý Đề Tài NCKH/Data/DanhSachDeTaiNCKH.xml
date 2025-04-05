@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachDeTaiNCKH>
+  <DeTaiNCLT id="NCLT01">
+    <TenDT>LÝ THUYẾT YÊU</TenDT>
+    <TruongNhom>PHÚC</TruongNhom>
+    <GiaoVien>TÂM</GiaoVien>
+    <ApDungThucTe>True</ApDungThucTe>
+  </DeTaiNCLT>
+  <DeTaiNCLT id="NCLT03">
+    <TenDT>NGHIÊN CỨU THỊ TRƯỜNG</TenDT>
+    <TruongNhom>KHOA</TruongNhom>
+    <GiaoVien>TÂM</GiaoVien>
+    <ApDungThucTe>True</ApDungThucTe>
+  </DeTaiNCLT>
+  <DeTaiNCCN id="NCCN01">
+    <TenDT>PHÁT TRIỂN AI</TenDT>
+    <TruongNhom>PHÚC</TruongNhom>
+    <GiaoVien>TÂM</GiaoVien>
+    <MoiTruong>Web</MoiTruong>
+  </DeTaiNCCN>
+  <DeTaiNCCN id="NCCN02">
+    <TenDT>APP QUẢN LÝ ĐỀ TÀI</TenDT>
+    <TruongNhom>KHOA</TruongNhom>
+    <GiaoVien>TÂM</GiaoVien>
+    <MoiTruong>Windows</MoiTruong>
+  </DeTaiNCCN>
+</DanhSachDeTaiNCKH>
